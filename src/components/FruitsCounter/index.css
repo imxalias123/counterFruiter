@@ -1,0 +1,30 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+.container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 40px;
+}
+.inside-con {
+  background-color: white;
+}
+.heading {
+  color: #000000;
+  font-family: 'roboto';
+  font-size: 30px;
+}
+.count {
+  color: #ffd569;
+}
+.both-img {
+  display: flex;
+}
+.img {
+}
+.img-btn {
+  display: flex;
+  flex-direction: column;
+}
